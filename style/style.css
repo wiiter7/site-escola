@@ -4,5 +4,8 @@
 }
 
 .cabecario {
-    background-color: aliceblue;
+    background-color: #424e61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
