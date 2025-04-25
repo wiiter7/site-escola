@@ -10,6 +10,10 @@
     justify-content: space-around;
 }
 
+.cabecalho-lista-item{
+    display: inline block;
+}
+
 .escola-imagens{
     width: 30%;
 }
