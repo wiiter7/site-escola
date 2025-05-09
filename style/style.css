@@ -55,5 +55,8 @@
 
 
 @media (max-width: 768px;) {
-    .cabecalho{}
+    .cabecalho{
+        flex-direction: column;
+        text-align: center;
+    }
 }
